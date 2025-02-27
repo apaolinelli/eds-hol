@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--eds-hol--gscamurra.hlx.page/
-- Live: https://main--eds-hol--gscamurra.hlx.live/
+- Preview: https://main--eds-hol--apaolinelli.hlx.page/
+- Live: https://main--eds-hol--apaolinelli.hlx.live/
 
 ## Installation
 
